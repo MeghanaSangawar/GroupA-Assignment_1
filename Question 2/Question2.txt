@@ -1,0 +1,13 @@
+﻿Student ID: 500236056 					Full Name: Pranay Sai Chava
+
+Question 2: Is Evernote a software product line?...a software as a service? Explain and justify your response.
+
+Answer: 
+
+Evernote was developed to be software as a service. Evernote is meant to be used for archiving and note-taking. It has numerous uses, such as setting reminders, annotating calendars, taking notes, and creating visual records to store important information. Users can easily make use of Evernote's features by subscribing to its services with a plan that works for them. 
+
+Evernote provides its services to a greater number of users across multiple platforms, including mobile applications and web applications for all operating systems. Evernote incorporates cloud repository and subscription-based services and allows users to reap its benefits via the internet even in the absence of a physical application. This is the main factor that makes Evernote's software service is incredibly effective.
+Evernote works simultaneously on Windows, Mac, and Android devices, in contrast to other note-taking software. In addition, Evernote's application versions for iOS and Android also establish as a separate product line. Evernote wants to assist large corporations and teams with a huge number of members using the current edition of the service. As a result, everyone in the team can talk simultaneously and access team notes as needed. 
+
+In conclusion, Evernote is a software product line that serves every need of users, enabling them to capture, record, and organize information seamlessly across their devices. With its compelling features and adaptability across platforms, Evernote's software-as-a-service approach is indeed effective.
+
