@@ -1,0 +1,25 @@
+Task 5 
+
+Link to JiraSoftware Project Board : https://jyothik.atlassian.net/jira/software/projects/EI/boards/5/backlog
+
+Sample Persona :
+Sudha is a senior auditor who checks houses and buildings to make sure they are safe and follow the rules.She carefully records all her findings in a note-taking app,but its hard to organise because the app only handles text and not pictures, which are crucial for her audit work.Besides her audits, Sudha also has to report to her most senior audit managers and manage her meeting schedule.She carries her laptop to every site but often misses meetings because of her busy audit work.The app she uses doesn’t show reminders and to do lists frequently,so she forgets her meetings and important tasks.Sudha needs a better way to remember her meetings and stay productive.
+This is why incorporating Evernote into her company software could really help he with the accuracy and efficiency she needs.With Evernote Sudha can spend less time dealing with written work and more time focusing on making sure houses and building are following the rules.Evernotes ability to handle pictures and provide frequent reminders and to-do lists would help Sudha to stay organised.
+
+
+Scenario 1: Hurdles on Audit Documentation
+User Story for efficient Audit Documentation:
+As a Senior Auditor I want to efficiently capture and organise all audit information,including text and visual representations.This will ensure that houses and buildings comply with  safety rules and laws and report accurately to senior management.
+Acceptance Criteria:
+1.The application should let users enter both text and images.
+2.It should make it simple to organise and find audit data.
+3.the app should be easy to use and help save time on documenting tasks.
+
+
+Scenario 2 : Challenges on Meeting Management
+User Story for Meeting Reminders :
+As a senior auditor,I want a reliable reminder tool integrated with my meeting schedule so that I can manage my audit tasks efficiently and never miss important meetings while I am on site.
+Acceptance Criteria:
+1.The system needs to deliver frequent punctual alerts for upcoming meetings.
+2.It should present a task list functionality for monitoring both meetings and audits.
+3.Reminder functionality should be accessible in mobile as well as laptop.
