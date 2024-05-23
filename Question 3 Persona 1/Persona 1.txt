@@ -1,3 +1,5 @@
-Journalist: 
+Persona1:
+
+Mathew, Journalist: 
 
 Mathew, A 27 year old new age journalist works for a reputed media channel in Seattle as an investigative journalist. Mathew was raised in a family of journalists and news reporters. He was raised in an environment where interviews of renowned people and reporting of the interviews was an integrated part of their lives. Mathew often noticed that there were piles and piles of physical notes, log books , task reminders and memos in their house and his father spent half of his leisure time in organizing the physical records and notes. He was bound to do the same with on going journalist journey.Whilst helping his father,  Mathew felt the need of an automated note taking service that would make his  life hassle free. Mathew managed to find multiple services online that cater to different needs. One of the applications served as a note taker, one served as a reminder and the other as a Task memo. Mathew  understands the need of a service that can cater to these needs in one place and can organize his activities buying him more time to focus on his duty. He believes in new age technology and web services making daily activities a cake walk and hence is on the look out for his resource like Evernote. 
