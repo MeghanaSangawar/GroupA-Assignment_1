@@ -1,0 +1,13 @@
+﻿Task4
+
+1.Create a free Jira Account and Navigate to this website https://www.atlassian.com/software/jira
+2.Enter name for your Jira site 
+3.Select What kind of work you do (Ex.Select Software Development)
+4.Select a template Scrum and click on Start Now 
+5.You will  get a prompt to name the Project
+6.Enter Project Name →Click on Get Started 
+7.By Default we will be directed to backlog view where we can view your Project name 
+8.On the top panel locate the “Teams” and  Click on Create a Team, Enter name of the team and Invite the Required members by their email addresses and click on Create team.
+
+
+Link to JiraSoftware Project Board : https://jyothik.atlassian.net/jira/software/projects/EI/boards/5/backlog
